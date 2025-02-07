@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30907.101
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManagementWithIdentity", "UserManagementWithIdentity\UserManagementWithIdentity.csproj", "{C1C21D2E-4DD3-498F-904F-8100A8C19246}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermissionBasedAuthorizationIntDotNet5", "..\PermissionBasedAuthorizationIntDotNet5\PermissionBasedAuthorizationIntDotNet5\PermissionBasedAuthorizationIntDotNet5.csproj", "{F32DC012-9B32-4B31-A8DD-934468EC9F04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C1C21D2E-4DD3-498F-904F-8100A8C19246}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1C21D2E-4DD3-498F-904F-8100A8C19246}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1C21D2E-4DD3-498F-904F-8100A8C19246}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F32DC012-9B32-4B31-A8DD-934468EC9F04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32DC012-9B32-4B31-A8DD-934468EC9F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32DC012-9B32-4B31-A8DD-934468EC9F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32DC012-9B32-4B31-A8DD-934468EC9F04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
